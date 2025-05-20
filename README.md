@@ -17,26 +17,6 @@ Sebuah aplikasi web sederhana untuk manajemen data barang (CRUD - Create, Read, 
 ✅ Upload Foto Barang  
 ✅ Validasi Form Otomatis
 
----
-
-## 📂 Struktur Folder
-├── app/
-│ └── Http/
-│ └── Controllers/
-│ └── BarangController.php
-├── resources/
-│ └── views/
-│ └── barangs/
-│ ├── index.blade.php
-│ ├── create.blade.php
-│ ├── edit.blade.php
-│ └── show.blade.php
-├── public/
-│ └── foto_barang/
-
-
----
-
 ## 🚀 Cara Menjalankan
 
 ### Installasi
