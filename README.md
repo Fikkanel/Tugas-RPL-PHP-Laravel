@@ -29,6 +29,23 @@ php artisan key:generate
 php artisan migrate
 php artisan serve
 ```
+---
+## 📂 Struktur Folder
+```bash
+├── app/
+│ └── Http/
+│ └── Controllers/
+│ └── BarangController.php
+├── resources/
+│ └── views/
+│ └── barangs/
+│ ├── index.blade.php
+│ ├── create.blade.php
+│ ├── edit.blade.php
+│ └── show.blade.php
+├── public/
+│ └── foto_barang/
+```
 
 ### 🖼️ Preview Antarmuka
 | Halaman   | Tampilan                                                             |
