@@ -50,6 +50,6 @@ php artisan serve
 ### 🖼️ Preview Antarmuka
 | Halaman   | Tampilan                                                             |
 | --------- | -------------------------------------------------------------------- |
-| Dashboard | ![Tampilan Aplikasi](Dashboard.png)   |
-| Tambah    | ![Tampilan Aplikasi](tambah.png) |
-| Detail    | ![Tampilan Aplikasi](detail.png)    |
+| Dashboard | ![Tampilan Aplikasi](tampilan/Dashboard.png)   |
+| Tambah    | ![Tampilan Aplikasi](tampilan/tambah.png) |
+| Detail    | ![Tampilan Aplikasi](tampilan/detail.png)    |
