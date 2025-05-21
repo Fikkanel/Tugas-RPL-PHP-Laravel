@@ -48,8 +48,4 @@ php artisan serve
 ```
 
 ### 🖼️ Preview Antarmuka
-| Halaman   | Tampilan                                                             |
-| --------- | -------------------------------------------------------------------- |
-| Dashboard | ![Index Page](LATIHAN.png)   |
-| Tambah    | ![Create Page](https://via.placeholder.com/300x150?text=Create+Page) |
-| Detail    | ![Show Page](https://via.placeholder.com/300x150?text=Show+Page)     |
+![Tampilan Aplikasi](TAMPILAN.png)
